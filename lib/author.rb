@@ -15,9 +15,9 @@ class Author
     self.title 
   end
   
-  # def add_post(post)
-  #   self.
-  # end
+  def add_post(post)
+    self.
+  end
   
   
   
