@@ -17,10 +17,10 @@ class Author
   
   def add_post_by_title(post_title)
     new_post = add_post(post_title)
-    
+    add_post(new_post)
   end
     
-  end
+  
   
   
 end
