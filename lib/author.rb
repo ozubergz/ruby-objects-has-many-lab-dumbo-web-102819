@@ -11,7 +11,8 @@ class Author
     Post.all
   end
   
-  
+  def 
+  end
   
   
 end
