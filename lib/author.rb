@@ -11,7 +11,7 @@ class Author
     Post.all
   end
   
-  def 
+  def add_post
   end
   
   
